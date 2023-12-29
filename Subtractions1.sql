@@ -9,6 +9,6 @@ Begin
    num2:=&num2;
    sub1:=num1-num2;
 
-   dbms_output.put_line('addition of two number:'||sub1);
+   dbms_output.put_line('subtractions of two number:'||sub1);
 End;
 /
